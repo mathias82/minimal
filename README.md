@@ -1,1 +1,1 @@
-# minimal
+# Maven Example Project
