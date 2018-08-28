@@ -5,7 +5,8 @@
          <modelVersion>4.0.0</modelVersion>
          <groupId>training.maven.quick</groupId>
          <artifactId>minimal-example</artifactId>
-         <version>1.0</version>
+         <packaging>jar</packaging>
+         <version>1.1-SNAPSHOT</version>
 
            <name>Simple Example</name>
                 <description>
