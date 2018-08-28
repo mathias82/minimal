@@ -7,4 +7,11 @@
          <artifactId>minimal-example</artifactId>
          <version>1.0</version>
 
+           <name>Simple Example</name>
+                <description>
+                This project is a simple example maven project designed to work with java application.
+                </description>
+               <inceptionYear>2018</inceptionYear>
+            <url>https://www.mstavrou.com</url>
+
 </project>         
